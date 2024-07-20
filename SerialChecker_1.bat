@@ -1,5 +1,5 @@
 @echo off
-title Lodex HWID Checker
+title Blizzard HWID Checker
 
 :start
 cls
